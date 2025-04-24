@@ -6,6 +6,10 @@ Before using, do the following:
 pip install -r requirements.txt
 ```
 Afterwards, make sure to write your values in for **twitter_username**, **twitter_email**, and **twitter_password**
+To run bot
+```
+python main.py
+```
 
 
 # *Important Step*
